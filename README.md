@@ -8,7 +8,7 @@
 + **Github** : [SightStudio](https://github.com/SightStudio)
 + **Blog** : [https://sightstudio.github.io](https://sightstudio.github.io)
 
-좋은 개발자가 되기 위에서 꾸준히 공부하는 개발자 지망생입니다.
+좋은 개발자가 되기 위에서 꾸준히 공부하는 개발자 지망생입니다.  
 성장이 멈춰있는것을 두려워하며, 자신의 기술에 관심을 가지고 개선시키는기 위해 노력합니다.
 
 ### 경력
@@ -31,12 +31,7 @@
 ### 보유 기술 및 사용도구
 ----
 #### Backend
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
-<img src="https://img.icons8.com/color/48/000000/spring-logo.png">
-<img src="https://img.icons8.com/windows/32/000000/node-js.png">
-<img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png">
-<img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png">
-<img src="https://img.icons8.com/color/48/000000/oracle-logo.png">
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"><img src="https://img.icons8.com/color/48/000000/spring-logo.png"><img src="https://img.icons8.com/windows/32/000000/node-js.png"><img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"><img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"><img src="https://img.icons8.com/color/48/000000/oracle-logo.png">
 
 + 주로 사용하는 언어는 java이며, Spring Boot + JPA 조합을 선호합니다.
 + 이외에도 Node.js (Express.js) 와 Ruby On Rails를 사용한 경험이 있습니다.
@@ -45,17 +40,15 @@
 @TODO ... 작성중 
 
 #### Front End
-<img src="https://img.icons8.com/color/48/000000/vue-js.png">
-<img src="https://img.icons8.com/color/48/000000/sass.png">
+<img src="https://img.icons8.com/color/48/000000/vue-js.png"><img src="https://img.icons8.com/color/48/000000/sass.png">
 
 @TODO ... 작성중
 
 #### DevOps
-<img src="https://img.icons8.com/dusk/48/000000/docker.png">
-<img src="https://img.icons8.com/color/48/000000/jenkins.png">
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
-<img src="https://img.icons8.com/color/48/000000/centos.png">
-<img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png">  
+<img src="https://img.icons8.com/dusk/48/000000/docker.png"/><img src="https://img.icons8.com/color/48/000000/jenkins.png"/>
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+<img src="https://img.icons8.com/color/48/000000/centos.png"/>
+<img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>  
 
 + AWS를 활용하여 모놀리식, 서버리스 등 다양한 아키텍처를 설계할 수 있습니다.
 + Amazon ECS를 사용하여 도커기반의 클러스터링 환경의 서버를 설계하고 공부하였습니다. **[프로젝트](https://github.com/SightStudio/Sortographer)**
