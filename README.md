@@ -14,13 +14,13 @@
 ### 경력
 ----
 + 네이버 웹툰
-  + 서버 개발 인턴 
+  + 서버 개발 인턴 '['[예정]'](https://sightstudio.github.io/2020/02/16/일상/naver-webtoon-intern)'
   + 2020.03.02 ~
   
 + 해나 소프트
   + Backend Developer (연구원)
   + 사용 기술 : Spring Framework, Apache Struts, JQuery
-  + 기간: 2019.12.15 ~ 2020.05.15
+  + 기간: 2018.12.15 ~ 2019.05.15
 
 ### 학력
 ----
@@ -52,7 +52,7 @@
 <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>  
 
 + AWS를 활용하여 모놀리식, 서버리스 등 다양한 아키텍처를 설계할 수 있습니다.
-+ Amazon ECS를 사용하여 도커기반의 클러스터링 환경의 서버를 설계하고 공부하였습니다. **[프로젝트](https://github.com/SightStudio/Sortographer)**
++ Amazon ECS를 사용하여 도커기반의 클러스터링 환경의 서버를 설계하고 공부하였습니다. **['[프로젝트]'](https://github.com/SightStudio/Sortographer)**
 + Github Web Hook과 Jenkin를 활용하여 CI & CD를 구현할 수 있습니다.
 
 @TODO ... 작성중
