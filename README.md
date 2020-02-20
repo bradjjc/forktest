@@ -1,7 +1,7 @@
 # 소개
 ![sight](./asset/img/my-img.jpg)
 
-##### DongMin Seol
+##### Dong Min Seol
 
 + 설동민
 + **Email** : sdm3285@naver.com
@@ -14,7 +14,7 @@
 ### 경력
 ----
 + 네이버 웹툰
-  + 서버 개발 인턴 '['[예정]'](https://sightstudio.github.io/2020/02/16/일상/naver-webtoon-intern)'
+  + 서버 개발 인턴 ['[예정]'](https://sightstudio.github.io/2020/02/16/일상/naver-webtoon-intern)
   + 2020.03.02 ~
   
 + 해나 소프트
@@ -25,9 +25,9 @@
 ### 학력
 ----
 + 한국산업기술대학교 (2014.03 ~ )
-  + 주전공 : 경영학부
-  + 복수전공 : 컴퓨터 공학부 
-  + 2020.08 졸업예정
+  + **주전공** : 경영학부
+  + **복수전공** : 컴퓨터 공학부 
+  + **2020.08 졸업예정**
 
 ### 보유 기술 및 사용도구
 ----
@@ -37,11 +37,13 @@
 + 주로 사용하는 언어는 java이며, Spring Boot + JPA 조합을 선호합니다.
 + 이외에도 Node.js (Express.js) 와 Ruby On Rails를 사용한 경험이 있습니다.
 + JVM과 스프링의 동작원리를 이해하고, GC에 대해서 설명 할 수 있습니다. 
-  
+
 @TODO ... 작성중 
 
 #### Front End
-<img src="https://img.icons8.com/color/48/000000/vue-js.png"><img src="https://img.icons8.com/color/48/000000/sass.png">
+<img src="https://img.icons8.com/color/48/000000/vue-js.png"><img src="https://img.icons8.com/color/48/000000/sass.png"><img src="https://img.icons8.com/color/48/000000/html-5.png"><img src="https://img.icons8.com/color/48/000000/css3.png">
+
++ 브라우저의 동작 원리를 이해하며, Vue.js를 주로 사용합니다.
 
 @TODO ... 작성중
 
@@ -77,3 +79,27 @@
   + 카카오(그라운드 X) 블록체인 플랫폼 '클레이튼'을 사용한 친환경 쇼핑몰 제작
   + 2019.11
  
+
+----
+### 기타 프로젝트
++ 1. 사내 다면평가 시스템 ['[링크]'](https://github.com/SightStudio/Survey)  
+  + 설명
+    + 군산대 인근 기업에 의뢰를 받아 100여명의 사원이 서로를 평가할 수 있는 폐쇄형 익명 상호 평가 시스템
+  + 기간 : 2019.08 ~ 2019.09
+  + 기여도 : 100%
+  + **사용 기술**
+    + **Front End** : JSP, JQuery
+    + **Back End**  : Spring 5  
+
+<br>
+
++ 2. Sortographer ['[링크]'](https://github.com/SightStudio/Sortographer)
+  + **설명**
+    + AWS 기반의 이미지 자동 분류 사진첩
+  + **기간** : 2019.10 ~ 2019.12
+  + **기여도** : 100%
+  + **사용 기술**
+    + **Front End** : Vue.js, Webpack
+    + **Back End**  : Spring Boot
+    + **Infra**     : Amazon Web Servive
+    + ... 세부 내역은 링크 참조
