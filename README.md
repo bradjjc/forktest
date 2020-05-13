@@ -8,9 +8,6 @@
 + **Github** : [SightStudio](https://github.com/SightStudio)
 + **Blog** : [https://sightstudio.github.io](https://sightstudio.github.io)
 
-좋은 개발자가 되기 위에서 꾸준히 공부하는 개발자 지망생입니다.  
-성장이 멈춰있는것을 두려워하며, 자신의 기술에 관심을 가지고 개선시키는기 위해 노력합니다.
-
 ### 경력
 ----
 + 네이버 웹툰
