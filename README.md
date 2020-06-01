@@ -11,8 +11,8 @@
 ### 경력
 ----
 + 네이버 웹툰
-  + 서버 개발 인턴 ['[예정]'](https://sightstudio.github.io/2020/02/16/일상/naver-webtoon-intern)
-  + 2020.03.02 ~
+  + 서버 개발 인턴
+  + 2020.03.18 ~ 2020.06.30 (예정)
   
 + 해나 소프트
   + Backend Developer (연구원)
