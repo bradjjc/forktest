@@ -12,7 +12,10 @@
 ----
 + 네이버 웹툰
   + 서버 개발 인턴
-  + 2020.03.18 ~ 2020.06.30 (예정)
+  + 2020.03.18 ~ 2020.06.30
+    + Spring MVC, Spring Webflux, Kotlin, vue, webpack, redis  
+    등등이 기억에 남으며, 제일 재밋었던건 webflux 기반의 비동기 이벤트 드리븐 서버를  
+    구축해본 점이였습니다.  
   
 + 해나 소프트
   + Backend Developer (연구원)
@@ -100,3 +103,8 @@
     + **Back End**  : Spring Boot
     + **Infra**     : Amazon Web Servive
     + ... 세부 내역은 링크 참조
+
+
+
+### 기타 등등  
+<img width = "200px" src = "https://user-images.githubusercontent.com/50672087/86369256-1fff0600-bcb9-11ea-93ad-6c38845fc519.jpeg">
