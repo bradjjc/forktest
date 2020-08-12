@@ -6,7 +6,7 @@
 + 설동민
 + **Email** : sdm3285@naver.com
 + **Github** : [SightStudio](https://github.com/SightStudio)
-+ **Blog** : [https://sightstudio.github.io](https://sightstudio.github.io)
++ **Blog** : [https://sightstudio.tistory.com](https://sightstudio.tistory.com)
 
 ### 경력
 ----
