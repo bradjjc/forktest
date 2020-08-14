@@ -13,8 +13,8 @@
 + 네이버 웹툰
   + 서버 개발 인턴
   + 2020.03.18 ~ 2020.06.30
-    + **Spring MVC**, **Spring Webflux**, **Kotlin**, **vue**, **webpack**, **redis** 등등이 기억에 남으며,  
-    제일 기억에 남았던건 webflux 기반의 비동기 이벤트 드리븐 서버를 구축한 부분이였습니다.  
+    + **Spring MVC**, **Spring Webflux**, **Kotlin**, **vue**, **webpack**, **redis** 경,  
+    webflux 기반의 비동기 서버 성능 개선, Redis 기반의 네트워크 락 구현
   
 + 해나 소프트
   + Backend Developer (연구원)
