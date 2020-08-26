@@ -36,15 +36,12 @@
 + 주로 사용하는 언어는 java이며, Spring Boot + JPA 조합을 선호합니다.
 + 이외에도 Node.js (Express.js) 와 Ruby On Rails를 사용한 경험이 있습니다.
 + JVM과 스프링의 동작원리를 이해하고, GC에 대해서 설명 할 수 있습니다. 
-
-@TODO ... 작성중 
++ 최근에는 Kotlin을 공부하고 있습니다.
 
 #### Front End
 <img src="https://img.icons8.com/color/48/000000/vue-js.png"><img src="https://img.icons8.com/color/48/000000/sass.png"><img src="https://img.icons8.com/color/48/000000/html-5.png"><img src="https://img.icons8.com/color/48/000000/css3.png">
 
 + 브라우저의 동작 원리를 이해하며, Vue.js를 주로 사용합니다.
-
-@TODO ... 작성중
 
 #### DevOps
 <img src="https://img.icons8.com/dusk/48/000000/docker.png"/><img src="https://img.icons8.com/color/48/000000/jenkins.png"/>
