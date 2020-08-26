@@ -13,7 +13,7 @@
 + 네이버 웹툰
   + 서버 개발 인턴
   + 2020.03.18 ~ 2020.06.30
-    + **Spring MVC**, **Spring Webflux**, **Kotlin**, **vue**, **webpack**, **redis** 경,  
+    + **Spring MVC**, **Spring Webflux**, **Kotlin**, **vue**, **webpack**, **redis**   
     webflux 기반의 비동기 서버 성능 개선, Redis 기반의 네트워크 락 구현
   
 + 해나 소프트
