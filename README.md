@@ -5,7 +5,7 @@
 
 + 정지창
 + **Email** : sdm3285@naver.com
-+ **Github** : [SightStudio](https://github.com/SightStudio)
++ **Github** : [SightStudio](https://github.com/SightStudio) 1111111
 + **Blog** : [https://sightstudio.tistory.com](https://sightstudio.tistory.com)
 
 ### 경력
