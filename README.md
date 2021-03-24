@@ -1,9 +1,9 @@
 # 소개
 ![sight](./asset/img/my-img.jpg)
 
-##### Dong Min Seol
+##### Jichangjung
 
-+ 설동민
++ 정지창
 + **Email** : sdm3285@naver.com
 + **Github** : [SightStudio](https://github.com/SightStudio)
 + **Blog** : [https://sightstudio.tistory.com](https://sightstudio.tistory.com)
