@@ -4,8 +4,13 @@
 ##### Jichangjung
 
 + 정지창
+<<<<<<< HEAD
 + **Email** : sdm3285@naver.com   11111111
 + **Github** : [SightStudio](https://github.com/SightStudio)
+=======
++ **Email** : sdm3285@naver.com
++ **Github** : [SightStudio](https://github.com/SightStudio) 1111111
+>>>>>>> test2
 + **Blog** : [https://sightstudio.tistory.com](https://sightstudio.tistory.com)
 
 ### 경력
