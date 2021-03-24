@@ -4,13 +4,13 @@
 ##### Jichangjung
 
 + 정지창
-+ **Email** : sdm3285@naver.com
++ **Email** : sdm3285@naver.com   11111111
 + **Github** : [SightStudio](https://github.com/SightStudio)
 + **Blog** : [https://sightstudio.tistory.com](https://sightstudio.tistory.com)
 
 ### 경력
 ----
-+ 네이버 웹툰
++ 네이버 웹툰123123123
   + 서버 개발 인턴
   + 2020.03.18 ~ 2020.06.30
     + **Spring MVC**, **Spring Webflux**, **Kotlin**, **vue**, **webpack**, **redis**   
